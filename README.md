@@ -1,4 +1,7 @@
 # Anushka Rakesh Front End App (Steeleye App)
+## Live App
+
+Check Live App: https://anushka-front-end-steeleye.netlify.app/
 
 ## Running Locally
 ```git
@@ -16,6 +19,7 @@ npm install
 ```npm
 npm start
 ```
+
 
 > For Output check: http://localhost:8000/
 
